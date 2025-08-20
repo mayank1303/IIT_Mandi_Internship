@@ -1,4 +1,4 @@
----
+
 
 ## 🧠 Problem Background
 
@@ -6,7 +6,6 @@ In supervised classification, performance depends heavily on whether data is **s
 - **Image datasets** — high-dimensional features that often require non-linear decision boundaries.
 - **Numerical/tabular datasets** — linear models can excel when classes are well separated.
 
----
 
 ## 🧪 Methods (high-level)
 
@@ -17,7 +16,7 @@ In supervised classification, performance depends heavily on whether data is **s
 
 > For full details, see the [Final Internship Report](./Final%20Internship%20Report.pdf).
 
----
+
 
 ## 📈 Key Findings
 
@@ -25,6 +24,5 @@ In supervised classification, performance depends heavily on whether data is **s
 - **Non-separable** cases benefit from added capacity or kernel methods with appropriate regularization.  
 - There is a dataset-dependent trade-off between margin maximization and overfitting.
 
----
 
 
